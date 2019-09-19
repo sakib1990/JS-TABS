@@ -1,0 +1,25 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial";
+}
+.tabs-cover {
+	width: 500px;
+	margin: 0 auto;
+
+}
+.tab-btn {
+	display: inline-block;
+	padding: 15px 10px;
+	color: #fff;
+	background-color: black;
+}
+.tab {
+	height: 300px;
+	line-height: 300px;
+	text-align: center;
+	background-color: #3498db;
+	font-size: 40px;
+	color: #fff;
+}
